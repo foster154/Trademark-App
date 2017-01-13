@@ -1,0 +1,8 @@
+{
+  "extends": ["standard", "standard-react"],
+  "eslintConfig": {
+    "globals": {
+      "window": true
+    }
+  }
+}
