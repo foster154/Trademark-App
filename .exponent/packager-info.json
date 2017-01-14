@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19003,
+  "packagerPort": 19002,
+  "packagerPid": 22107,
+  "exponentServerNgrokUrl": "https://74-prs.markadamfoster.trademarkapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.74-prs.markadamfoster.trademarkapp.exp.direct",
+  "ngrokPid": 22124
+}
