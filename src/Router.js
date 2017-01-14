@@ -1,6 +1,6 @@
 import React from 'react'
 import { Scene, Router } from 'react-native-router-flux'
-import Home from './components/Home'
+import Home from './components/home/Home'
 import * as CONSTANTS from './constants'
 
 const RouterComponent = () => {
